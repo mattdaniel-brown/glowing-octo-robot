@@ -8,3 +8,11 @@ Misc links I want to revisit.
 #### Bootstrap
 
 [Datepicker for Twitter's Bootstrap Framework](http://www.eyecon.ro/bootstrap-datepicker/)
+
+[ClockPicker for Bootstrap](http://weareoutman.github.io/clockpicker/)
+
+[Easy Tree.js](https://github.com/zgs225/easy-tree)
+
+[Fuel FX - JS Components](http://getfuelux.com/index.html)
+
+*__Note To Self:__ Go checkout the new stuff on [Bootsnip](https://bootsnipp.com/)*
