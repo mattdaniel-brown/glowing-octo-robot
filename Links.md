@@ -16,3 +16,21 @@ Misc links I want to revisit.
 [Fuel FX - JS Components](http://getfuelux.com/index.html)
 
 *__Note To Self:__ Go checkout the new stuff on [Bootsnip](https://bootsnipp.com/)*
+
+### Platforms and Services
+
+#### Serverless
+
+_(Of course, have to start with the aptly named...)_   
+   
+   
+##### [Serverless](https://serverless.com/getting-started/)
+
+##### [Apex](http://apex.run/)
+###### [Apex Github](##### [Apex](https://github.com/apex/apex)
+###### [Apex Examples](https://github.com/apex/apex/tree/master/_examples)
+
+
+#### Cloud
+
+#### Microservices
