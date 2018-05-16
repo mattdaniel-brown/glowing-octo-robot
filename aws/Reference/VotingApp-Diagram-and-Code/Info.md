@@ -1,7 +1,13 @@
-![Simple Image Dipiction](https://raw.githubusercontent.com/mattdaniel-brown/glowing-octo-robot/master/aws/Reference/VotingApp-Diagram-and-Code/Lambda_WebApplications-voting-app-graphic.png)
-
+  
 # AWS VotingApp Info
 Simple example on AWS that includes a PDF diagram of the archetecture and sample code.
+
+
+![Simple Image Dipiction](https://raw.githubusercontent.com/mattdaniel-brown/glowing-octo-robot/master/aws/Reference/VotingApp-Diagram-and-Code/Lambda_WebApplications-voting-app-graphic.png)
+
+
+## Original Resource
+[AWS Serverless Page](https://aws.amazon.com/serverless/)
 
 ## Link to sample code
 [Voting App Sample Code](https://github.com/aws-samples/lambda-refarch-webapp)
