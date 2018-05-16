@@ -1,7 +1,7 @@
 # AWS VotingApp Info
 Simple example on AWS that includes a PDF diagram of the archetecture and sample code.
 
-![Simple Image Dipiction](glowing-octo-robot/aws/Reference/VotingApp-Diagram-and-Code/Lambda_WebApplications-voting-app-graphic.png)
+![Simple Image Dipiction](https://raw.githubusercontent.com/mattdaniel-brown/glowing-octo-robot/master/aws/Reference/VotingApp-Diagram-and-Code/Lambda_WebApplications-voting-app-graphic.png)
 
 
 ## Link to sample code
